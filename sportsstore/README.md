@@ -10,6 +10,11 @@ brew update
 brew install mongodb
 ```
 
+## Install Node.js Connect
+```
+npm install connect@2.X.X
+```
+
 # Sample proejct
 ## Create Project
 ```
